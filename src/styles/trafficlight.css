@@ -1,0 +1,90 @@
+body{
+background: linear-gradient(to right, #0f2027, #203a43, #2c5364); background-size: 100%;
+}
+
+.holder {
+    background-color: black;
+    height: 90px;
+    width: 15px;
+     margin: auto;
+
+}
+
+.trafficLight{
+    background-color: black;
+    width: 90px;
+    height: 240px;
+    margin: auto;
+    padding: 15px;
+}
+
+.redLight{
+    height: 65px;
+    width: 65px;
+    background-color: red;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.yellowLight{
+    height: 65px;
+    width: 65px;
+    background-color: yellow;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 7px;
+}
+
+
+.greenLight{
+    height: 65px;
+    width: 65px;
+    background-color: green;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 7px;
+
+}
+
+
+
+.redBright{
+    height: 65px;
+    width: 65px;
+    background-color: red;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow:
+      0 0 15px 7.5px #fff,  
+    0 0 25px 15px lightyellow, 
+    0 0 35px 22.5px yellow;  
+}
+
+.yellowBright{
+    height: 65px;
+    width: 65px;
+    background-color: yellow;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 7px;
+    box-shadow:
+      0 0 15px 7.5px #fff,  
+    0 0 25px 15px lightyellow, 
+    0 0 35px 22.5px yellow;  
+}
+
+
+.greenBright{
+    height: 65px;
+    width: 65px;
+    background-color: green;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 7px;
+    box-shadow:
+      0 0 15px 7.5px #fff,  
+    0 0 25px 15px lightyellow, 
+    0 0 35px 22.5px yellow;  
+}
+
+
